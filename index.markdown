@@ -3,4 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Homepage test title"
+permalink: /URL-PATH
 ---
+
+This is a test page
