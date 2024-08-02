@@ -4,7 +4,7 @@
 
 layout: home
 title: "Homepage test title"
-permalink: /URL-PATH
+permalink: /
 ---
 
 This is a test page
